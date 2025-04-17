@@ -1,0 +1,11 @@
+{
+    "users": {
+        "2": {
+            "username": "默认用户",
+            "bark_key": "Nonew",
+            "city": "广州",
+            "enabled": true
+        }
+    },
+    "active_user": "2"
+}
